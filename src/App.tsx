@@ -1,11 +1,9 @@
 import './App.css';
 import {
   MessageCircle,
-  Phone,
   CheckCircle,
   Smartphone,
   MapPin,
-  Scale,
   FileText,
   ShieldCheck,
   Lock,
